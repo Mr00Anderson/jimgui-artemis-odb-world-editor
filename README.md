@@ -8,7 +8,7 @@ The app launches into a editor. This editor will contain menu, option to see the
 
 Estimated time until arrival: TBD, in the works while working on college.
 
-Goals
+Goals(Incomplete, not all inclusive) 
 - [ ] Ability to edit worlds
   - [ ] World Selection Window
   - [ ] Todo - List all Artemis parts - All API will be exposed in the editor
