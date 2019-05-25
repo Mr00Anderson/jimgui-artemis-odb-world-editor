@@ -9,6 +9,7 @@ The app launches into a editor. This editor will contain menu, option to see the
 Estimated time until arrival: TBD, in the works while working on college.
 
 Goals(Incomplete, not all inclusive)
+
 - [ ] Ability to edit worlds
   - [ ] World Selection Window
   - [ ] Todo - List all Artemis parts - All API will be exposed in the editor
@@ -40,3 +41,4 @@ Goals(Incomplete, not all inclusive)
   - [ ] Helper methods for drawing
   - [ ] Write a system for anyone to be able to drap and drop like (JavaFX Scene Builder) (Experimental)
   - [ ] Write some abstraction to allow editing of the editor world safely while running
+
