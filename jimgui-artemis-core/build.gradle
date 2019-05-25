@@ -17,6 +17,8 @@ project.ext {
     lwjglNatives = "natives-windows"
 }
 
+test.useJUnitPlatform()
+
 dependencies {
     // Logging
     compile "org.slf4j:slf4j-api:1.7.25"
@@ -43,7 +45,7 @@ dependencies {
     compile "net.mostlyoriginal.artemis-odb:contrib-plugin-profiler:2.4.0"
 
 
-    // Testiing
+    // Testing
     testCompile "org.junit.jupiter:junit-jupiter-api:5.5.0-M1"
     testCompile "org.junit.jupiter:junit-jupiter-engine:5.5.0-M1"
 
